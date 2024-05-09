@@ -1,0 +1,41 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Usuario\\Desktop\\Proyecto\\SuggestionSiteApp\\SuggestionApp\\SuggestionAppUI\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\SuggestionAppUI.bundle.scp.css",
+      "PackagePath": "staticwebassets\\SuggestionAppUI.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\Usuario\\Desktop\\Proyecto\\SuggestionSiteApp\\SuggestionApp\\SuggestionAppUI\\wwwroot\\app.css",
+      "PackagePath": "staticwebassets\\app.css"
+    },
+    {
+      "Id": "C:\\Users\\Usuario\\Desktop\\Proyecto\\SuggestionSiteApp\\SuggestionApp\\SuggestionAppUI\\wwwroot\\bootstrap\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Usuario\\Desktop\\Proyecto\\SuggestionSiteApp\\SuggestionApp\\SuggestionAppUI\\wwwroot\\bootstrap\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Usuario\\Desktop\\Proyecto\\SuggestionSiteApp\\SuggestionApp\\SuggestionAppUI\\wwwroot\\favicon.png",
+      "PackagePath": "staticwebassets\\favicon.png"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.SuggestionAppUI.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.SuggestionAppUI.props",
+      "PackagePath": "build\\SuggestionAppUI.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.SuggestionAppUI.props",
+      "PackagePath": "buildMultiTargeting\\SuggestionAppUI.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.SuggestionAppUI.props",
+      "PackagePath": "buildTransitive\\SuggestionAppUI.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
