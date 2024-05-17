@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ignac\\OneDrive\\Escritorio\\Todo\\Proyectos\\SuggestionApp\\Suggestion-Site-App\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B041EB8B-8201-44CB-BD2C-D43EC7D6CF9A}|SuggestionAppUI\\SuggestionAppUI.csproj|c:\\users\\ignac\\onedrive\\escritorio\\todo\\proyectos\\suggestionapp\\suggestion-site-app\\suggestionappui\\components\\pages\\sampledata.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B041EB8B-8201-44CB-BD2C-D43EC7D6CF9A}|SuggestionAppUI\\SuggestionAppUI.csproj|solutionrelative:suggestionappui\\components\\pages\\sampledata.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B041EB8B-8201-44CB-BD2C-D43EC7D6CF9A}|SuggestionAppUI\\SuggestionAppUI.csproj|c:\\users\\ignac\\onedrive\\escritorio\\todo\\proyectos\\suggestionapp\\suggestion-site-app\\suggestionappui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B041EB8B-8201-44CB-BD2C-D43EC7D6CF9A}|SuggestionAppUI\\SuggestionAppUI.csproj|solutionrelative:suggestionappui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B041EB8B-8201-44CB-BD2C-D43EC7D6CF9A}|SuggestionAppUI\\SuggestionAppUI.csproj|c:\\users\\ignac\\onedrive\\escritorio\\todo\\proyectos\\suggestionapp\\suggestion-site-app\\suggestionappui\\registerservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B041EB8B-8201-44CB-BD2C-D43EC7D6CF9A}|SuggestionAppUI\\SuggestionAppUI.csproj|solutionrelative:suggestionappui\\registerservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RegisterServices.cs",
+              "DocumentMoniker": "C:\\Users\\ignac\\OneDrive\\Escritorio\\Todo\\Proyectos\\SuggestionApp\\Suggestion-Site-App\\SuggestionAppUI\\RegisterServices.cs",
+              "RelativeDocumentMoniker": "SuggestionAppUI\\RegisterServices.cs",
+              "ToolTip": "C:\\Users\\ignac\\OneDrive\\Escritorio\\Todo\\Proyectos\\SuggestionApp\\Suggestion-Site-App\\SuggestionAppUI\\RegisterServices.cs",
+              "RelativeToolTip": "SuggestionAppUI\\RegisterServices.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T20:11:24.357Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ignac\\OneDrive\\Escritorio\\Todo\\Proyectos\\SuggestionApp\\Suggestion-Site-App\\SuggestionAppUI\\Program.cs",
+              "RelativeDocumentMoniker": "SuggestionAppUI\\Program.cs",
+              "ToolTip": "C:\\Users\\ignac\\OneDrive\\Escritorio\\Todo\\Proyectos\\SuggestionApp\\Suggestion-Site-App\\SuggestionAppUI\\Program.cs",
+              "RelativeToolTip": "SuggestionAppUI\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T20:11:13.501Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SampleData.razor",
+              "DocumentMoniker": "C:\\Users\\ignac\\OneDrive\\Escritorio\\Todo\\Proyectos\\SuggestionApp\\Suggestion-Site-App\\SuggestionAppUI\\Components\\Pages\\SampleData.razor",
+              "RelativeDocumentMoniker": "SuggestionAppUI\\Components\\Pages\\SampleData.razor",
+              "ToolTip": "C:\\Users\\ignac\\OneDrive\\Escritorio\\Todo\\Proyectos\\SuggestionApp\\Suggestion-Site-App\\SuggestionAppUI\\Components\\Pages\\SampleData.razor",
+              "RelativeToolTip": "SuggestionAppUI\\Components\\Pages\\SampleData.razor",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAwAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-17T20:10:21.268Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

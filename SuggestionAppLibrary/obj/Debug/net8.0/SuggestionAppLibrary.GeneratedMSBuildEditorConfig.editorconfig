@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = SuggestionAppLibrary
-build_property.ProjectDir = C:\Users\Usuario\Desktop\Proyecto\SuggestionSiteApp\SuggestionApp\SuggestionAppLibrary\
+build_property.ProjectDir = C:\Users\ignac\OneDrive\Escritorio\Todo\Proyectos\SuggestionApp\Suggestion-Site-App\SuggestionAppLibrary\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

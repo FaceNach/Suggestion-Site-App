@@ -10,3 +10,16 @@ C:\Users\Usuario\Desktop\Proyecto\SuggestionSiteApp\SuggestionApp\SuggestionAppL
 C:\Users\Usuario\Desktop\Proyecto\SuggestionSiteApp\SuggestionApp\SuggestionAppLibrary\obj\Debug\net8.0\refint\SuggestionAppLibrary.dll
 C:\Users\Usuario\Desktop\Proyecto\SuggestionSiteApp\SuggestionApp\SuggestionAppLibrary\obj\Debug\net8.0\SuggestionAppLibrary.pdb
 C:\Users\Usuario\Desktop\Proyecto\SuggestionSiteApp\SuggestionApp\SuggestionAppLibrary\obj\Debug\net8.0\ref\SuggestionAppLibrary.dll
+C:\Users\ignac\OneDrive\Escritorio\Todo\Proyectos\SuggestionApp\Suggestion-Site-App\SuggestionAppLibrary\bin\Debug\net8.0\SuggestionAppLibrary.deps.json
+C:\Users\ignac\OneDrive\Escritorio\Todo\Proyectos\SuggestionApp\Suggestion-Site-App\SuggestionAppLibrary\bin\Debug\net8.0\SuggestionAppLibrary.dll
+C:\Users\ignac\OneDrive\Escritorio\Todo\Proyectos\SuggestionApp\Suggestion-Site-App\SuggestionAppLibrary\bin\Debug\net8.0\SuggestionAppLibrary.pdb
+C:\Users\ignac\OneDrive\Escritorio\Todo\Proyectos\SuggestionApp\Suggestion-Site-App\SuggestionAppLibrary\obj\Debug\net8.0\SuggestionAppLibrary.csproj.AssemblyReference.cache
+C:\Users\ignac\OneDrive\Escritorio\Todo\Proyectos\SuggestionApp\Suggestion-Site-App\SuggestionAppLibrary\obj\Debug\net8.0\SuggestionAppLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ignac\OneDrive\Escritorio\Todo\Proyectos\SuggestionApp\Suggestion-Site-App\SuggestionAppLibrary\obj\Debug\net8.0\SuggestionAppLibrary.AssemblyInfoInputs.cache
+C:\Users\ignac\OneDrive\Escritorio\Todo\Proyectos\SuggestionApp\Suggestion-Site-App\SuggestionAppLibrary\obj\Debug\net8.0\SuggestionAppLibrary.AssemblyInfo.cs
+C:\Users\ignac\OneDrive\Escritorio\Todo\Proyectos\SuggestionApp\Suggestion-Site-App\SuggestionAppLibrary\obj\Debug\net8.0\SuggestionAppLibrary.csproj.CoreCompileInputs.cache
+C:\Users\ignac\OneDrive\Escritorio\Todo\Proyectos\SuggestionApp\Suggestion-Site-App\SuggestionAppLibrary\obj\Debug\net8.0\SuggestionAppLibrary.sourcelink.json
+C:\Users\ignac\OneDrive\Escritorio\Todo\Proyectos\SuggestionApp\Suggestion-Site-App\SuggestionAppLibrary\obj\Debug\net8.0\SuggestionAppLibrary.dll
+C:\Users\ignac\OneDrive\Escritorio\Todo\Proyectos\SuggestionApp\Suggestion-Site-App\SuggestionAppLibrary\obj\Debug\net8.0\refint\SuggestionAppLibrary.dll
+C:\Users\ignac\OneDrive\Escritorio\Todo\Proyectos\SuggestionApp\Suggestion-Site-App\SuggestionAppLibrary\obj\Debug\net8.0\SuggestionAppLibrary.pdb
+C:\Users\ignac\OneDrive\Escritorio\Todo\Proyectos\SuggestionApp\Suggestion-Site-App\SuggestionAppLibrary\obj\Debug\net8.0\ref\SuggestionAppLibrary.dll

@@ -19,7 +19,7 @@ public class DbConnection : IDbConnection
     public IMongoCollection<StatusModel> StatusCollection { get; private set; }
     public IMongoCollection<UserModel> UserCollection { get; private set; }
     public IMongoCollection<SuggestionModel> SuggestionCollection { get; private set; }
-    
+
     public DbConnection(IConfiguration configuration)
     {
         _configuration = configuration;

@@ -1,23 +1,23 @@
 {
   "Files": [
     {
-      "Id": "C:\\Users\\Usuario\\Desktop\\Proyecto\\SuggestionSiteApp\\SuggestionApp\\SuggestionAppUI\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\SuggestionAppUI.bundle.scp.css",
+      "Id": "C:\\Users\\ignac\\OneDrive\\Escritorio\\Todo\\Proyectos\\SuggestionApp\\Suggestion-Site-App\\SuggestionAppUI\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\SuggestionAppUI.bundle.scp.css",
       "PackagePath": "staticwebassets\\SuggestionAppUI.bundle.scp.css"
     },
     {
-      "Id": "C:\\Users\\Usuario\\Desktop\\Proyecto\\SuggestionSiteApp\\SuggestionApp\\SuggestionAppUI\\wwwroot\\app.css",
+      "Id": "C:\\Users\\ignac\\OneDrive\\Escritorio\\Todo\\Proyectos\\SuggestionApp\\Suggestion-Site-App\\SuggestionAppUI\\wwwroot\\app.css",
       "PackagePath": "staticwebassets\\app.css"
     },
     {
-      "Id": "C:\\Users\\Usuario\\Desktop\\Proyecto\\SuggestionSiteApp\\SuggestionApp\\SuggestionAppUI\\wwwroot\\bootstrap\\bootstrap.min.css",
+      "Id": "C:\\Users\\ignac\\OneDrive\\Escritorio\\Todo\\Proyectos\\SuggestionApp\\Suggestion-Site-App\\SuggestionAppUI\\wwwroot\\bootstrap\\bootstrap.min.css",
       "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css"
     },
     {
-      "Id": "C:\\Users\\Usuario\\Desktop\\Proyecto\\SuggestionSiteApp\\SuggestionApp\\SuggestionAppUI\\wwwroot\\bootstrap\\bootstrap.min.css.map",
+      "Id": "C:\\Users\\ignac\\OneDrive\\Escritorio\\Todo\\Proyectos\\SuggestionApp\\Suggestion-Site-App\\SuggestionAppUI\\wwwroot\\bootstrap\\bootstrap.min.css.map",
       "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css.map"
     },
     {
-      "Id": "C:\\Users\\Usuario\\Desktop\\Proyecto\\SuggestionSiteApp\\SuggestionApp\\SuggestionAppUI\\wwwroot\\favicon.png",
+      "Id": "C:\\Users\\ignac\\OneDrive\\Escritorio\\Todo\\Proyectos\\SuggestionApp\\Suggestion-Site-App\\SuggestionAppUI\\wwwroot\\favicon.png",
       "PackagePath": "staticwebassets\\favicon.png"
     },
     {

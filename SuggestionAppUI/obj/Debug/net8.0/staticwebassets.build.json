@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "ueij7sBRUMU2Jp2BA1BIutMDEBDGS6RuV3YKzswCEk8=",
+  "Hash": "O09eKszhIPadKCIWZ+6an+zeIr1q7UiSS+hoYt1Hwdw=",
   "Source": "SuggestionAppUI",
   "BasePath": "_content/SuggestionAppUI",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "SuggestionAppUI\\wwwroot",
       "Source": "SuggestionAppUI",
-      "ContentRoot": "C:\\Users\\Usuario\\Desktop\\Proyecto\\SuggestionSiteApp\\SuggestionApp\\SuggestionAppUI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ignac\\OneDrive\\Escritorio\\Todo\\Proyectos\\SuggestionApp\\Suggestion-Site-App\\SuggestionAppUI\\wwwroot\\",
       "BasePath": "_content/SuggestionAppUI",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "C:\\Users\\Usuario\\Desktop\\Proyecto\\SuggestionSiteApp\\SuggestionApp\\SuggestionAppUI\\obj\\Debug\\net8.0\\scopedcss\\bundle\\SuggestionAppUI.styles.css",
+      "Identity": "C:\\Users\\ignac\\OneDrive\\Escritorio\\Todo\\Proyectos\\SuggestionApp\\Suggestion-Site-App\\SuggestionAppUI\\obj\\Debug\\net8.0\\scopedcss\\bundle\\SuggestionAppUI.styles.css",
       "SourceId": "SuggestionAppUI",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\Usuario\\Desktop\\Proyecto\\SuggestionSiteApp\\SuggestionApp\\SuggestionAppUI\\obj\\Debug\\net8.0\\scopedcss\\bundle\\",
+      "ContentRoot": "C:\\Users\\ignac\\OneDrive\\Escritorio\\Todo\\Proyectos\\SuggestionApp\\Suggestion-Site-App\\SuggestionAppUI\\obj\\Debug\\net8.0\\scopedcss\\bundle\\",
       "BasePath": "_content/SuggestionAppUI",
       "RelativePath": "SuggestionAppUI.styles.css",
       "AssetKind": "All",
@@ -33,13 +33,13 @@
       "AssetTraitValue": "ApplicationBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Usuario\\Desktop\\Proyecto\\SuggestionSiteApp\\SuggestionApp\\SuggestionAppUI\\obj\\Debug\\net8.0\\scopedcss\\bundle\\SuggestionAppUI.styles.css"
+      "OriginalItemSpec": "C:\\Users\\ignac\\OneDrive\\Escritorio\\Todo\\Proyectos\\SuggestionApp\\Suggestion-Site-App\\SuggestionAppUI\\obj\\Debug\\net8.0\\scopedcss\\bundle\\SuggestionAppUI.styles.css"
     },
     {
-      "Identity": "C:\\Users\\Usuario\\Desktop\\Proyecto\\SuggestionSiteApp\\SuggestionApp\\SuggestionAppUI\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\SuggestionAppUI.bundle.scp.css",
+      "Identity": "C:\\Users\\ignac\\OneDrive\\Escritorio\\Todo\\Proyectos\\SuggestionApp\\Suggestion-Site-App\\SuggestionAppUI\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\SuggestionAppUI.bundle.scp.css",
       "SourceId": "SuggestionAppUI",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\Usuario\\Desktop\\Proyecto\\SuggestionSiteApp\\SuggestionApp\\SuggestionAppUI\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\",
+      "ContentRoot": "C:\\Users\\ignac\\OneDrive\\Escritorio\\Todo\\Proyectos\\SuggestionApp\\Suggestion-Site-App\\SuggestionAppUI\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\",
       "BasePath": "_content/SuggestionAppUI",
       "RelativePath": "SuggestionAppUI.bundle.scp.css",
       "AssetKind": "All",
@@ -52,13 +52,13 @@
       "AssetTraitValue": "ProjectBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Usuario\\Desktop\\Proyecto\\SuggestionSiteApp\\SuggestionApp\\SuggestionAppUI\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\SuggestionAppUI.bundle.scp.css"
+      "OriginalItemSpec": "C:\\Users\\ignac\\OneDrive\\Escritorio\\Todo\\Proyectos\\SuggestionApp\\Suggestion-Site-App\\SuggestionAppUI\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\SuggestionAppUI.bundle.scp.css"
     },
     {
-      "Identity": "C:\\Users\\Usuario\\Desktop\\Proyecto\\SuggestionSiteApp\\SuggestionApp\\SuggestionAppUI\\wwwroot\\app.css",
+      "Identity": "C:\\Users\\ignac\\OneDrive\\Escritorio\\Todo\\Proyectos\\SuggestionApp\\Suggestion-Site-App\\SuggestionAppUI\\wwwroot\\app.css",
       "SourceId": "SuggestionAppUI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Usuario\\Desktop\\Proyecto\\SuggestionSiteApp\\SuggestionApp\\SuggestionAppUI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ignac\\OneDrive\\Escritorio\\Todo\\Proyectos\\SuggestionApp\\Suggestion-Site-App\\SuggestionAppUI\\wwwroot\\",
       "BasePath": "_content/SuggestionAppUI",
       "RelativePath": "app.css",
       "AssetKind": "All",
@@ -74,10 +74,10 @@
       "OriginalItemSpec": "wwwroot\\app.css"
     },
     {
-      "Identity": "C:\\Users\\Usuario\\Desktop\\Proyecto\\SuggestionSiteApp\\SuggestionApp\\SuggestionAppUI\\wwwroot\\bootstrap\\bootstrap.min.css",
+      "Identity": "C:\\Users\\ignac\\OneDrive\\Escritorio\\Todo\\Proyectos\\SuggestionApp\\Suggestion-Site-App\\SuggestionAppUI\\wwwroot\\bootstrap\\bootstrap.min.css",
       "SourceId": "SuggestionAppUI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Usuario\\Desktop\\Proyecto\\SuggestionSiteApp\\SuggestionApp\\SuggestionAppUI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ignac\\OneDrive\\Escritorio\\Todo\\Proyectos\\SuggestionApp\\Suggestion-Site-App\\SuggestionAppUI\\wwwroot\\",
       "BasePath": "_content/SuggestionAppUI",
       "RelativePath": "bootstrap/bootstrap.min.css",
       "AssetKind": "All",
@@ -93,10 +93,10 @@
       "OriginalItemSpec": "wwwroot\\bootstrap\\bootstrap.min.css"
     },
     {
-      "Identity": "C:\\Users\\Usuario\\Desktop\\Proyecto\\SuggestionSiteApp\\SuggestionApp\\SuggestionAppUI\\wwwroot\\bootstrap\\bootstrap.min.css.map",
+      "Identity": "C:\\Users\\ignac\\OneDrive\\Escritorio\\Todo\\Proyectos\\SuggestionApp\\Suggestion-Site-App\\SuggestionAppUI\\wwwroot\\bootstrap\\bootstrap.min.css.map",
       "SourceId": "SuggestionAppUI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Usuario\\Desktop\\Proyecto\\SuggestionSiteApp\\SuggestionApp\\SuggestionAppUI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ignac\\OneDrive\\Escritorio\\Todo\\Proyectos\\SuggestionApp\\Suggestion-Site-App\\SuggestionAppUI\\wwwroot\\",
       "BasePath": "_content/SuggestionAppUI",
       "RelativePath": "bootstrap/bootstrap.min.css.map",
       "AssetKind": "All",
@@ -112,10 +112,10 @@
       "OriginalItemSpec": "wwwroot\\bootstrap\\bootstrap.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\Usuario\\Desktop\\Proyecto\\SuggestionSiteApp\\SuggestionApp\\SuggestionAppUI\\wwwroot\\favicon.png",
+      "Identity": "C:\\Users\\ignac\\OneDrive\\Escritorio\\Todo\\Proyectos\\SuggestionApp\\Suggestion-Site-App\\SuggestionAppUI\\wwwroot\\favicon.png",
       "SourceId": "SuggestionAppUI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Usuario\\Desktop\\Proyecto\\SuggestionSiteApp\\SuggestionApp\\SuggestionAppUI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ignac\\OneDrive\\Escritorio\\Todo\\Proyectos\\SuggestionApp\\Suggestion-Site-App\\SuggestionAppUI\\wwwroot\\",
       "BasePath": "_content/SuggestionAppUI",
       "RelativePath": "favicon.png",
       "AssetKind": "All",

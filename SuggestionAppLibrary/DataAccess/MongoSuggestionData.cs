@@ -108,7 +108,7 @@ public class MongoSuggestionData : ISuggestionData
         }
     }
 
-    public async Task CreateSuggestions(SuggestionModel suggestion)
+    public async Task CreateSuggestion(SuggestionModel suggestion)
     {
         var client = _db.Client;
 
@@ -126,7 +126,6 @@ public class MongoSuggestionData : ISuggestionData
             var user = await _userData.GetUserAsync(suggestion.Author.Id);
             user.AuthoredSuggestions.Add(new BasicSuggestionModel(suggestion));
             await usersInTransaction.ReplaceOneAsync(u => u.Id == user.Id, user);
-            await session.AbortTransactionAsync();
         }
         catch (Exception ex)
         {
