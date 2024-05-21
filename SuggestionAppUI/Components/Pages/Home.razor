@@ -6,12 +6,46 @@
 @inject NavigationManager navManager
 @inject ProtectedSessionStorage sessionStorage
 
+<h1>Training Suggestions</h1>
+<div>
+    <button>Suggest</button>
+</div>
+
+<div>
+    <div>@countSuggestions Suggestions</div>
+    <div>
+        <button @onclick="(() => OrderByNew(true))">New</button>
+        <button @onclick="(() => OrderByNew(false))">Popular</button>
+    </div>
+    <div>
+        <input type="text" placeholder="Search" aria-label="Search box" @oninput="((txt) => OnSearchInput((string)txt.Value))" />
+    </div>
+</div>
+
+<div>
+    <div>
+        @if (suggestions is not null)
+        {
+            <Virtualize Items="@suggestions" Context="s" OverscanCount="10">
+                <div>
+                    <div>
+                        
+                    </div>
+                </div>
+            </Virtualize>
+        }
+    </div>
+</div>
+
+
+
 @code
 {
     private List<SuggestionModel> suggestions;
     private List<CategoryModel> categories;
     private List<StatusModel> statuses;
 
+    private int countSuggestions;
     private string selectedCategory = "All";
     private string selectedStatus = "All";
     private string searchText = "";
@@ -21,7 +55,8 @@
     {
         categories = await categoryData.GetCategoriesAsync();
         statuses = await statusData.GetStatuses();
-        
+        suggestions = await suggestionData.GetSuggestionsAsync();
+        countSuggestions = suggestions.Count;
     }
 
     protected override async Task OnAfterRenderAsync(bool firstRender)

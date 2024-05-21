@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SuggestionAppLibrary")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7800cd526effa37288e23d6019053635706624eb")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ef42e3ea0d73c782a43f3db9ae828c65f1f6f1ed")]
 [assembly: System.Reflection.AssemblyProductAttribute("SuggestionAppLibrary")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SuggestionAppLibrary")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
